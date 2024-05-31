@@ -1,0 +1,19 @@
+.linkContainer {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.linkContainer a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+.navbar {
+    display: flex;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 0;
+    padding: 1rem;
+    height: 10vh;
+}
